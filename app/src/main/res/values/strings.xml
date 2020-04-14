@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Spending</string>
+
+    <string name="add_item">+</string>
+</resources>
